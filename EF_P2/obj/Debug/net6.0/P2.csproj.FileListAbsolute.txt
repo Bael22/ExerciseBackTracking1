@@ -1,0 +1,15 @@
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\bin\Debug\net6.0\P2.exe
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\bin\Debug\net6.0\P2.deps.json
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\bin\Debug\net6.0\P2.runtimeconfig.json
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\bin\Debug\net6.0\P2.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\bin\Debug\net6.0\P2.pdb
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\obj\Debug\net6.0\P2.csproj.AssemblyReference.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\obj\Debug\net6.0\P2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\obj\Debug\net6.0\P2.AssemblyInfoInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\obj\Debug\net6.0\P2.AssemblyInfo.cs
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\obj\Debug\net6.0\P2.csproj.CoreCompileInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\obj\Debug\net6.0\P2.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\obj\Debug\net6.0\refint\P2.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\obj\Debug\net6.0\P2.pdb
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\obj\Debug\net6.0\P2.genruntimeconfig.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\EF\EF\EF_P2\obj\Debug\net6.0\ref\P2.dll
